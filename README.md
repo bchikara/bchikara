@@ -5,7 +5,6 @@
 </em></p>
 
 [![Linkedin: bchikara](https://img.shields.io/badge/-bchikara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bchikara/)](https://www.linkedin.com/in/bchikara/)
-![GitHub followers](https://img.shields.io/github/followers/bchikara?label=Follow&style=social)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bchikara?theme=dark)
 
