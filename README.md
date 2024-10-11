@@ -32,9 +32,6 @@ const bhupesh = {
             js: ["Node", "Express", "NestJS"],
             python: ["Flask"],
         },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
         devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: {
             aws: ["AWS Fargate", "EC2", "S3", "Lambda"],
